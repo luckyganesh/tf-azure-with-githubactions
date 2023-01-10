@@ -1,5 +1,6 @@
 name: "Learning terraform azure with github actions"
 
+on: push
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
