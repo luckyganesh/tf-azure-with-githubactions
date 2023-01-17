@@ -1,4 +1,4 @@
-name: "Learning terraform azure with github actions"
+name: "Destruction"
 
 on: 
 - workflow_dispatch
